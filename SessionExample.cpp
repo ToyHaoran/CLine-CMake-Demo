@@ -425,7 +425,7 @@ int main() {
     // insertTablet();
     //
     // cout << "insertRecords\n" << endl;
-    // insertRecords();
+    insertRecords();
     //
     cout << "insertTablets\n" << endl;
     insertTablets();
